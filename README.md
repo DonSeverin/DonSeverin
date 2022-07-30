@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DonSeverin
 - 👀 I’m interested in all things Data
-- 🌱 I’m currently learning containerization
+- 🌱 I’m currently learning all things Data Science
 - 💞️ I’m looking to collaborate on innovative and green projects
-- 📫 How to reach me d.c.severin@ outlook.com
+- 📫 How to reach me d.c.severin@outlook.com
 
 <!---
 DonSeverin/DonSeverin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
