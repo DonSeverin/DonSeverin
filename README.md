@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Data
 - 🌱 I’m currently learning all things Data Science
 - 💞️ I’m looking to collaborate on innovative and green projects
-- 📫 How to reach me d.c.severin@outlook.com
+- 📫 How to reach me don.c.severin@outlook.com
 - 👀 Holder of a lot more private repositories than public ones! 👀
 
 <!---
